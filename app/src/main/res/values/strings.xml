@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Riddller!</string>
+    <string name="riddle_panel">Riddlee me this</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_score">Score</string>
+
+    <string name="action_reset">Reset</string>
+
+</resources>
